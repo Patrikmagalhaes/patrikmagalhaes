@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+💻 Formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciência da Computação**, apaixonado por tecnologia e desenvolvimento web. Tenho experiência em **React, TypeScript, JavaScript, HTML e CSS**, além de projetos fullstack integrando **banco de dados e APIs de IA**. Já atuei como desenvolvedor estagiário e hoje sigo evoluindo em novos desafios. 🚀
+
+Busco oportunidades de estágio onde possa aprender com a equipe, contribuir com soluções e desenvolver meu potencial como futuro desenvolvedor.
 
 
 ---
@@ -86,11 +88,18 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat" 
 />
-
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+/>
 
 <br/>
 <br/>
