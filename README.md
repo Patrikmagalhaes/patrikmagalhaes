@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-💻 Formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciência da Computação**, apaixonado por tecnologia e desenvolvimento web. Tenho experiência em **React, TypeScript, JavaScript, HTML e CSS**, além de projetos fullstack integrando **banco de dados e APIs de IA**. Já atuei como desenvolvedor estagiário e hoje sigo evoluindo em novos desafios. 🚀
+💻 Formado em **Técnico em Desenvolvimento de Sistemas** e estudante de **Ciência da Computação**, apaixonado por tecnologia e desenvolvimento web. Tenho experiência em **React, TypeScript, JavaScript, HTML e CSS**, além de projetos fullstack integrando **banco de dados e APIs de IA**. Já atuei como desenvolvedor estagiário e hoje sigo evoluindo em novos desafios. 🚀
 
 Busco oportunidades de estágio onde possa aprender com a equipe, contribuir com soluções e desenvolver meu potencial como futuro desenvolvedor.
 
